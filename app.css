@@ -14,3 +14,7 @@ h1 {
     text-align: center;
     margin : 20px auto;
 }
+
+li {
+    margin-top: 5px;
+}
